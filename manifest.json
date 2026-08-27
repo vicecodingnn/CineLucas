@@ -1,6 +1,6 @@
 {
-  "version": "4.1.0",
-  "changelog": "Aperçu en direct : tape un titre dans la barre de recherche, une petite fiche (affiche, année, note) apparaît en dessous après une courte pause de frappe.\n\nReprendre votre lecture : carte à droite de la barre de recherche (en dessous si la fenêtre est étroite), avec l'affiche du dernier titre regardé, clique dessus, ça rouvre exactement le même lien sur le même site qu'avant.\n\nFiabilité : écran d'erreur lisible au lieu d'un écran blanc si un souci survient au démarrage, rechargement automatique si le moteur de rendu plante, config corrompue gérée sans bloquer l'appli, et build durci pour limiter les échecs de compilation.",
-  "downloadUrl": "https://gofile.io/d/cf624202-6da2-4b30-b4f3-759eb04dbdb1",
-  "publishedAt": "2026-08-27T10:16:59.045Z"
+  "version": "4.2.0",
+  "changelog": "Nouvelle MAJ : \n\ncreation Maj automatique sur l'application.",
+  "downloadUrl": "https://github.com/vicecodingnn/CineLucas/releases/download/NewMaj/CineLucas-Setup.exe",
+  "publishedAt": "2026-08-27T20:51:36.343Z"
 }
