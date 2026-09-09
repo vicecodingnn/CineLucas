@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": "1788955672909",
+      "title": "Annonce de Test",
+      "message": "Annonce de test. pour prochaine mise a jour",
+      "imageUrl": null,
+      "createdAt": "2026-09-09T12:07:52.909Z"
+    },
+    {
       "id": "1788889291784",
       "title": "Test annonce",
       "message": "ici seront mises les nouvelle annonce",
