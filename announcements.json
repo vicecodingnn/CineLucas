@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": "1789018888818",
+      "title": "Nouveau logo",
+      "message": "voici notre nouveau logo + maj ce soir",
+      "imageUrl": "https://raw.githubusercontent.com/vicecodingnn/CineLucas/main/announcements/images/1789018886705-aa5a41f6-d3ad-4aa3-b33d-fa9da0a500d23333.png",
+      "createdAt": "2026-09-10T05:41:28.818Z"
+    },
+    {
       "id": "1788977941495",
       "title": "Annonce test",
       "message": "test d'annonce pour nouvelle mise a jour",
