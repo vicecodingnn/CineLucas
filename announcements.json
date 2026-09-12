@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": "1789202047275",
+      "title": "Changement du l'interface boutique",
+      "message": "va dans l'onglet boutique !",
+      "imageUrl": null,
+      "createdAt": "2026-09-12T08:34:07.275Z"
+    },
+    {
       "id": "1789018888818",
       "title": "Nouveau logo",
       "message": "voici notre nouveau logo + maj ce soir",
